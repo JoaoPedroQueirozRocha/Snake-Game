@@ -54,7 +54,7 @@ function drawGame(){
 
     checkCollision();
     drawScore();
-    setTimeout(drawGame, 1000/speed);
+    // setTimeout(drawGame, 1000/speed);
 }
 
 function TheGameOver(){
